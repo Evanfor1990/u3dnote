@@ -1,6 +1,7 @@
 ## RectTransform
 ```
-* Anchor       (1,1)
+* Anchor  
+            (1,1)
 |     *anchor.max
 |
 | *
